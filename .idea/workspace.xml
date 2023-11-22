@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e805170-d5c5-40b4-a6ea-03fff517005d" name="Changes" comment="Добавление студента">
+    <list default="true" id="2e805170-d5c5-40b4-a6ea-03fff517005d" name="Changes" comment="Init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/AStudent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/AStudent.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,21 +17,15 @@
       <list>
         <option value="Kotlin File" />
         <option value="Kotlin Interface" />
-        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="MyTest" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="2YDBOwsrPMLwkOJ6lg52IsoFqaS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -63,100 +56,11 @@
       <option name="project" value="LOCAL" />
       <updated>1700050447259</updated>
     </task>
-    <task id="LOCAL-00002" summary="Adding Age">
-      <option name="closed" value="true" />
-      <created>1700632055408</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1700632055408</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Добавление студентов">
-      <option name="closed" value="true" />
-      <created>1700632728906</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1700632728906</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Добавление студентов">
-      <option name="closed" value="true" />
-      <created>1700632886497</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1700632886497</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Вывод списка студентов">
-      <option name="closed" value="true" />
-      <created>1700633031906</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1700633031906</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Вывод студентов в отдельной функции">
-      <option name="closed" value="true" />
-      <created>1700633499941</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1700633499941</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Восстановление студентов">
-      <option name="closed" value="true" />
-      <created>1700635902134</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1700635902134</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Восстановление студентов">
-      <option name="closed" value="true" />
-      <created>1700635916036</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1700635916036</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Восстановление студентов">
-      <option name="closed" value="true" />
-      <created>1700636188480</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1700636188480</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Добавление студента">
-      <option name="closed" value="true" />
-      <created>1700636295316</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1700636295316</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <MESSAGE value="Adding Age" />
-    <MESSAGE value="Добавление студентов" />
-    <MESSAGE value="Вывод списка студентов" />
-    <MESSAGE value="Вывод студентов в отдельной функции" />
-    <MESSAGE value="Восстановление студентов" />
-    <MESSAGE value="Добавление студента" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавление студента" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
   </component>
 </project>
