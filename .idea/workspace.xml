@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e805170-d5c5-40b4-a6ea-03fff517005d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2e805170-d5c5-40b4-a6ea-03fff517005d" name="Changes" comment="Added Class Super student">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,11 +46,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700050253102</updated>
-      <workItem from="1700631734276" duration="334000" />
+      <workItem from="1700631734276" duration="1312000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Class Super student">
+      <option name="closed" value="true" />
+      <created>1700632462714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700632462714</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Class Super student">
+      <option name="closed" value="true" />
+      <created>1700632524687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700632524687</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Class Super student" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Class Super student" />
   </component>
 </project>
