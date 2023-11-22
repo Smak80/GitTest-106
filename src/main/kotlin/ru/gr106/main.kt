@@ -11,4 +11,6 @@ fun main() {
         println(it)
     }
     display_information(stds)
+    display_information(stds)
+    stds.add(AStudentClass("Нагадил"))
 }
