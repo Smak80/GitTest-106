@@ -9,7 +9,7 @@ class SuperStudent(name:String, marks:Map<String,Int>) : AStudent{
     }
 
     override fun toString(): String {
-        return "This student is called $name"
+        return "This student is called $name. His marks: ${mmarks.entries}"
     }
 }
 
