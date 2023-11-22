@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e805170-d5c5-40b4-a6ea-03fff517005d" name="Changes" comment="" />
+    <list default="true" id="2e805170-d5c5-40b4-a6ea-03fff517005d" name="Changes" comment="dgreg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700633857464</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dgreg">
+      <created>1700635096435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700635096435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="grer" />
-    <option name="LAST_COMMIT_MESSAGE" value="grer" />
+    <MESSAGE value="dgreg" />
+    <option name="LAST_COMMIT_MESSAGE" value="dgreg" />
   </component>
 </project>
