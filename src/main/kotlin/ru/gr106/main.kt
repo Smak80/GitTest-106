@@ -10,7 +10,7 @@ fun printStudents(students:List<AStudent>){
 
 fun main() {
     val stds = mutableListOf<AStudent>()
-    stds.add(SuperStudent("Jack", mapOf("chemistry" to 5,"Math" to 4)))
-    stds.add(SuperStudent("Robin", mapOf("PE" to 5,"Literature" to 5)))
+    stds.add(SuperStudent("Jack", mapOf("chemistry" to 5,"Math" to 4),20u))
+    stds.add(SuperStudent("Robin", mapOf("PE" to 5,"Literature" to 5),23u))
     printStudents(stds)
 }
