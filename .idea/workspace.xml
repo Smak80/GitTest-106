@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e805170-d5c5-40b4-a6ea-03fff517005d" name="Changes" comment="Adding Age">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/Student.kt" afterDir="false" />
+    <list default="true" id="2e805170-d5c5-40b4-a6ea-03fff517005d" name="Changes" comment="Вывод студентов в отдельной функции">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="MyTest" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "MyTest"
+    "git-widget-placeholder": "ShowStudents"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,12 +70,47 @@
       <option name="project" value="LOCAL" />
       <updated>1700632055408</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Добавление студентов">
+      <option name="closed" value="true" />
+      <created>1700632728906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700632728906</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Добавление студентов">
+      <option name="closed" value="true" />
+      <created>1700632886497</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700632886497</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Вывод списка студентов">
+      <option name="closed" value="true" />
+      <created>1700633031906</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700633031906</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Вывод студентов в отдельной функции">
+      <option name="closed" value="true" />
+      <created>1700633499941</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700633499941</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
     <MESSAGE value="Adding Age" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Age" />
+    <MESSAGE value="Добавление студентов" />
+    <MESSAGE value="Вывод списка студентов" />
+    <MESSAGE value="Вывод студентов в отдельной функции" />
+    <option name="LAST_COMMIT_MESSAGE" value="Вывод студентов в отдельной функции" />
   </component>
 </project>
