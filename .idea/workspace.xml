@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e805170-d5c5-40b4-a6ea-03fff517005d" name="Changes" comment="Добавление студента">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/AStudent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/AStudent.kt" afterDir="false" />
+    <list default="true" id="2e805170-d5c5-40b4-a6ea-03fff517005d" name="Changes" comment="stuff">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/Student.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/gr106/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
-        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -25,10 +23,32 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="MyTest" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="SHuARTale" />
+        <option name="repository" value="GitTest-106" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="cce98a44-232d-48d4-8dd3-abe42e02df76" />
+        <option name="url" value="https://github.com/Smak80/GitTest-106.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -39,13 +59,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gr106.MainKt" />
+      <module name="GitTest-106" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,109 +95,67 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700050253102</updated>
+      <workItem from="1700631734276" duration="2400000" />
     </task>
-    <task id="LOCAL-00001" summary="Init">
+    <task id="LOCAL-00001" summary="Added Class Super student">
       <option name="closed" value="true" />
-      <created>1700050447258</created>
+      <created>1700632462714</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1700050447259</updated>
+      <updated>1700632462714</updated>
     </task>
-    <task id="LOCAL-00002" summary="Adding Age">
+    <task id="LOCAL-00002" summary="Added Class Super student">
       <option name="closed" value="true" />
-      <created>1700632055408</created>
+      <created>1700632524687</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1700632055408</updated>
+      <updated>1700632524687</updated>
     </task>
-    <task id="LOCAL-00003" summary="Добавление студентов">
+    <task id="LOCAL-00003" summary="Added printing function">
       <option name="closed" value="true" />
-      <created>1700632728906</created>
+      <created>1700633076679</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1700632728906</updated>
+      <updated>1700633076679</updated>
     </task>
-    <task id="LOCAL-00004" summary="Добавление студентов">
+    <task id="LOCAL-00004" summary="Added printing function">
       <option name="closed" value="true" />
-      <created>1700632886497</created>
+      <created>1700633264904</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1700632886497</updated>
+      <updated>1700633264904</updated>
     </task>
-    <task id="LOCAL-00005" summary="Вывод списка студентов">
+    <task id="LOCAL-00005" summary="Extended SuperStudent toString">
       <option name="closed" value="true" />
-      <created>1700633031906</created>
+      <created>1700633611912</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1700633031906</updated>
+      <updated>1700633611912</updated>
     </task>
-    <task id="LOCAL-00006" summary="Вывод студентов в отдельной функции">
+    <task id="LOCAL-00006" summary="stuff">
       <option name="closed" value="true" />
-      <created>1700633499941</created>
+      <created>1700653410415</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1700633499941</updated>
+      <updated>1700653410415</updated>
     </task>
-    <task id="LOCAL-00007" summary="Восстановление студентов">
-      <option name="closed" value="true" />
-      <created>1700635902134</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1700635902134</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Восстановление студентов">
-      <option name="closed" value="true" />
-      <created>1700635916036</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1700635916036</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Восстановление студентов">
-      <option name="closed" value="true" />
-      <created>1700636188480</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1700636188480</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Добавление студента">
-      <option name="closed" value="true" />
-      <created>1700636295316</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1700636295316</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Init" />
-    <MESSAGE value="Adding Age" />
-    <MESSAGE value="Добавление студентов" />
-    <MESSAGE value="Вывод списка студентов" />
-    <MESSAGE value="Вывод студентов в отдельной функции" />
-    <MESSAGE value="Восстановление студентов" />
-    <MESSAGE value="Добавление студента" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавление студента" />
+    <MESSAGE value="Added Class Super student" />
+    <MESSAGE value="Added printing function" />
+    <MESSAGE value="Extended SuperStudent toString" />
+    <MESSAGE value="stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="stuff" />
   </component>
 </project>
