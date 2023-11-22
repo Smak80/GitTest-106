@@ -9,5 +9,7 @@ fun main() {
     stds.add(std1)
     stds.add(std2)
     stds.add(std3)
+    stds.remove(std1)
+    stds.remove(std2)
     std3.PrintStudentInfo(stds)
 }
