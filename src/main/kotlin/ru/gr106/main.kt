@@ -17,7 +17,6 @@ fun printStudents(students:List<AStudent>){
     for (student in students){
         println(student)
     }
-
 }
 
 fun main() {
