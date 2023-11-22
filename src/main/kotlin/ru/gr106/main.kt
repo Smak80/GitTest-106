@@ -9,5 +9,7 @@ fun showStudents(sList: List<AStudent>){
 fun main() {
     val stds = mutableListOf<AStudent>()
     stds.add(Student("Иванов И. И."))
+    stds.add(Student("Петров П. П."))
+    stds.add(Student("Галимуллин Р. Ш."))
     showStudents(stds)
 }
