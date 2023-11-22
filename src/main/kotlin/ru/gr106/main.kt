@@ -11,6 +11,5 @@ fun main() {
     stds.add(Student("Иванов И. И."))
     stds.add(Student("Петров П. П."))
     stds.add(Student("Галимуллин Р. Ш."))
-    stds.add(Student("Сидоров С. В."))
     showStudents(stds)
 }
