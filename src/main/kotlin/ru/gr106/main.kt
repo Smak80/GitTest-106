@@ -6,8 +6,6 @@ fun display_information(some: List<AStudent>){
 fun main() {
     val stds = mutableListOf<AStudent>()
     stds.add(AStudentClass("Некто Н.Н."))
-    stds.add(AStudentClass("Второй Н.Н"))
-    stds.add(AStudentClass("Третий Н.Н."))
     println("")
     stds.forEach{
         println(it)
